@@ -1,0 +1,29 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 60px;
+    color: #e80eae;
+}
+
+/* p {
+    font-family: garamond;
+    font-size: 50px;
+    color: green;
+}*/
+
+a {
+    font-size: 25px;
+}
+
+#myFirstID {
+    font-family: garamond;
+    color: blue; 
+}
+
+#mySecondID {
+    font-family: helvetica;
+    color: red;
+}
