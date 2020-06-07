@@ -1,2 +1,2 @@
 # volandosinalas.github.io
-ITP Camp exercise
+ITP Camp 2020 exercise
